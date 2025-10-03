@@ -1,2 +1,2 @@
 # To-Do-List
-Tekemiseen käytetty HTML, CSS ja JavaScriptiä, lopullinen versio nähtävillä vercelissä
+JavaScriptillä toteutettu yksinkertainen To-Do List, jossa voi lisätä, muokata, poistaa ja merkitä tehtäviä tehdyiksi. Lisäksi jokainen tehtävä saa oman aikaleiman, kun se lisätään.
